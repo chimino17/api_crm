@@ -15,7 +15,7 @@ const Inicio = () => {
         console.log(error);
       }
     };
-    //
+
     obtenerClientesAPI();
   }, []);
 
